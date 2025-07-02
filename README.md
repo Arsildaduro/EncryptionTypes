@@ -1,1 +1,2 @@
-# PythonProject4
+# EncryptionTypes
+This project implements various symmetric key encryption algorithms, focusing on their theoretical foundations and practical application. It covers the Affine Cipher, Monoalphabetic Substitution Cipher, and the Data Encryption Standard (DES). The implementation includes detailed steps for encryption, decryption, and demonstrates cryptanalysis techniques such as brute force and frequency analysis. Additionally, it provides a comparison of the custom DES implementation with a standard DES package in Python and OpenSSL.
